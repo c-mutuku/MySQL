@@ -29,7 +29,7 @@ The project builds a structured database from raw records and analyzes crash pat
 
 
 ### 📂 Data Source
-[Motor Vehicle Collisions – Crashes (NYC Open Data)](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data)
+[Motor Vehicle Collisions – Crashes (NYC Open Data)](https://data.cityofnewyork.us/d/h9gi-nx95)
 
 > Raw data is not included in this repository due to size.
 
